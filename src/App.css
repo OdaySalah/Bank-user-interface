@@ -1,0 +1,72 @@
+.headerm {
+  width: 80%;
+  height: 100%;
+  margin-left: 8%;
+  background-color: blueviolet;
+  border-radius: 15px;
+  justify-content: center;
+  text-align: center;
+  align-content: center;
+}
+.headerm h3 {
+  color: #ffffff;
+}
+.name {
+  height: 40px;
+  width: 90%;
+  border-radius: 15px;
+  justify-content: center;
+  text-align: center;
+  align-content: center;
+  margin-bottom: 2%;
+  border: #ffffff;
+  outline: none;
+}
+
+label {
+  color: #ffffff;
+}
+input.ch1 {
+  transform: scale(2);
+  background-color: black;
+  margin-bottom: 2%;
+  margin-top: 1%;
+}
+.buttonSubmit button {
+  height: 40px;
+  width: 10%;
+  border-radius: 10px;
+  color: rgb(255, 255, 255);
+  background-color: rgb(247, 96, 202);
+  margin-bottom: 3%;
+}
+#ale {
+  color: rgb(199, 18, 18);
+  background-color: rgb(255, 255, 255);
+  justify-content: center;
+  text-align: center;
+  align-content: center;
+  align-content: center;
+  width: 50vw;
+  height: 10%;
+  margin-left: 22%;
+  margin-bottom: 12%;
+  border-radius: 15px;
+}
+#alerew {
+  justify-content: center;
+  text-align: center;
+  align-content: center;
+  align-content: center;
+  margin-top: -500px;
+  margin-left: -8%;
+  border-radius: 15px;
+  width: 100vw;
+  height: 100vh;
+  border: #ffffff;
+  position: absolute;
+  background-color: rgba(0, 0, 255, 0.062);
+}
+.all {
+  background-color: chocolate;
+}
